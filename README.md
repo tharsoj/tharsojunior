@@ -3,4 +3,4 @@ Olá, meu nome é Tharso Júnior C. da Silva
 - :Meu email de contato é tharso.silva@escola.pr.gov.br
 - :Meu email de contato especial é tharsoj6@mail.com
 
-**eu estou interessa em  aprender a programar novas liguage**
+**eu estou interessa em  aprender a programar novas liguagens**
